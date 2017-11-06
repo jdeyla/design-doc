@@ -67,12 +67,6 @@ Aspetto
    -  Nei moduli online, la `segnalazione dei campi obbligatori mancanti
       <https://www.w3.org/TR/WCAG20-TECHS/F81.html>`__
       effettuata solo tramite il colore
-
--  **Tempo sufficiente**: deve essere possibile `rimuovere il limite di tempo
-   di visualizzazione <https://www.w3.org/TR/WCAG20-TECHS/F16.html>`__ di un oggetto nella pagina, o regolarne la
-   scadenza, o estenderla facilmente prima del termine. Ad esempio 
-   attenzione a pubblicare un contenuto che “scorre” come un carousel di
-   notizie.
 -  **Oggetti lampeggianti**: le pagine Web non devono contenere nulla che
    lampeggi per più di tre volte al secondo.
 -  **Contenuti audio**: se un contenuto audio all'interno di una pagina Web
@@ -98,7 +92,11 @@ Struttura
 
 Comportamento
 ^^^^^^^^^^^^^
-
+-  **Tempo sufficiente**: deve essere possibile `rimuovere il limite di tempo
+   di visualizzazione <https://www.w3.org/TR/WCAG20-TECHS/F16.html>`__ di un oggetto nella pagina, o regolarne la
+   scadenza, o estenderla facilmente prima del termine. Ad esempio 
+   attenzione a pubblicare un contenuto che “scorre” come un carousel di
+   notizie
 -  **Link e controlli**: tutti i componenti dell’interfaccia si devono poter
    utilizzare tramite comandi da tastiera analogamente a quanto si
    riesce a fare col mouse. Risulta quindi errato:
